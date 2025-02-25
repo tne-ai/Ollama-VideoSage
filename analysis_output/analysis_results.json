@@ -1,5 +1,5 @@
 {
-  "video_path": "/Users/deonblaauw/Github/OSIRIS/Ollama-VideoSage/cakeday.mp4",
+  "video_path": "/Users/deonblaauw/Github/OSIRIS/Ollama-VideoSage/times-square.mp4",
   "analysis_parameters": {
     "fps_sample_rate": 5,
     "batch_size": 8,
@@ -9,20 +9,30 @@
     {
       "frame_number": 0,
       "timestamp": 0.0,
-      "description": "In this frame, a person is holding a plate with food on it. The individual appears to be wearing casual clothing, including a denim jacket and plaid pants. They are standing indoors, possibly at an event or gathering where refreshments are being served.\n\nThe focus of the image is on the plate in their hands, which contains what looks like a dessert topped with whipped cream and red berries. The person seems to be presenting or about to enjoy this treat."
+      "description": "The image depicts a bustling night scene at Times Square, New York City. The primary subjects include:\n\n1. **Pedestrians**: Several people are walking across the street, some holding umbrellas indicating it might be raining.\n2. **Vehicles**: Yellow taxis and SUVs are visible on the road, contributing to the busy urban atmosphere.\n3. **Billboards and Advertisements**:\n   - A large Pepsi ad is prominent with a man in a suit.\n   - There's an advertisement for \"Dancing With The Stars\" featuring Mark Ballas.\n   - An \"ARMED FOR\" recruitment sign from the US Army is displayed, indicating active military promotions.\n4. **Landmarks**: \n   - The JVC building on 7th Avenue and Broadway stands out with its distinctive globe-shaped structure displaying a large Earth image.\n\nThe overall ambiance suggests it's nighttime in an iconic urban setting characterized by vibrant advertising and busy pedestrian traffic."
     },
     {
-      "frame_number": 120,
+      "frame_number": 150,
       "timestamp": 5.0,
-      "description": "In this frame, a person with curly hair and wearing a dark blue sweater appears to be engaged in a phone conversation while standing at a kitchen counter. Another individual dressed in a denim jacket is holding out a plate topped with what looks like dessert topped with strawberries towards them. The setting seems casual, possibly during an evening or gathering where food is being shared.\n\nDetails such as the modern kitchen appliances and items on the countertop add to the context of a relaxed domestic environment. There's also a bottle of red wine present in the scene, suggesting that drinks might be part of this interaction."
+      "description": "This image captures a bustling scene at night, likely in Times Square, New York City. Here are some key details:\n\n1. **Location**: The setting appears to be Times Square, identifiable by prominent signs such as \"JVC\" and other illuminated advertisements.\n2. **Weather**: It is raining, which can be inferred from the wet ground reflecting lights and people holding umbrellas.\n3. **Activity**:\n   - People are walking on a busy street or sidewalk, some carrying umbrellas to shield themselves from the rain.\n   - A few individuals seem to be tourists, as suggested by their casual attire and one person holding what appears to be a map or guidebook.\n\nThe overall atmosphere is vibrant yet chaotic, typical of Times Square at night."
+    },
+    {
+      "frame_number": 300,
+      "timestamp": 10.0,
+      "description": "The image captures a bustling urban street scene at night, likely Times Square in New York City given the bright advertisements and recognizable logos such as JVC and Whirlpool. Pedestrians are seen walking across the wet pavement with some holding umbrellas, indicating it may have recently rained. The traffic lights show \"1\" and \"5,\" suggesting a crosswalk or pedestrian signal is active. Several people in casual attire can be observed navigating through the rain-soaked streets amidst vibrant neon signs and illuminated billboards."
+    },
+    {
+      "frame_number": 450,
+      "timestamp": 15.0,
+      "description": "In this frame, a busy urban intersection at night is depicted with several people crossing the street while holding umbrellas, indicating that it might be raining. The area appears to be Times Square in New York City, characterized by its bright and colorful digital billboards advertising various products such as JVC, Pepsi, and other brands. Pedestrians are seen walking across a wet pavement reflecting the vibrant lights from nearby advertisements and buildings. There is visible traffic with yellow taxis moving on the streets. The overall atmosphere suggests a lively city scene during rainy weather."
     }
   ],
   "segment_descriptions": [
     {
       "start_time": 0.0,
-      "end_time": 5.0,
-      "description": "The video segment begins with an individual holding a plate with a dessert, likely a cake or pie, topped with whipped cream and red berries. They are standing indoors, dressed casually in a denim jacket and plaid pants, suggesting they are at a gathering where refreshments are being served. The focus is on the food as they appear to be presenting it to others or about to enjoy it themselves. \n\nCut to another scene, likely part of the same event, with a person with curly hair and a dark blue sweater engaged in a phone conversation while standing at a kitchen counter. They hold out a plate topped with strawberries towards another individual dressed similarly in a denim jacket. The setting is a modern kitchen with appliances and items on the countertop, creating a relaxed domestic environment. A bottle of red wine is present, indicating that drinks might be part of this interaction. \n\nThis video segment suggests a casual gathering where food and conversation are shared among friends or family. The progression of action shows a shift from one person presenting dessert to another offering it, with the overall theme of food and social interaction taking center stage."
+      "end_time": 15.0,
+      "description": "This video segment showcases the bustling atmosphere of Times Square at night, highlighting its iconic urban setting and vibrant advertising culture.\n\nThe camera pans to reveal a busy intersection in Times Square, teeming with life under the bright lights of neon signs and billboards. Pedestrians fill the sidewalks and crosswalks, some holding umbrellas, suggesting it's raining. The scene is chaotic yet captivating, with yellow taxis zipping through the traffic and people navigating the wet streets.\n\nKey landmarks are visible, including the distinctive JVC building on 7th Avenue and Broadway, known for its globe-shaped structure displaying a large Earth image. The Pepsi ad featuring a man in a suit stands out prominently. Additionally, an \"ARMED FOR\" recruitment sign from the US Army is displayed, indicating active military promotions.\n\nThe segment captures the essence of Times Square's nighttime vibrancy, with its bustling crowds, vibrant advertisements, and unique atmosphere amidst rain."
     }
   ],
-  "final_description": "A group of friends gather in a modern kitchen for a casual get-together, sharing desserts and engaging in light conversations. A key moment captures a host presenting strawberries on a plate to a friend who then offers dessert to someone else. The video ends with the implication that food and social interaction are central to this gathering, creating a warm and relaxed atmosphere."
+  "final_description": "In this single-scene video, a bustling Times Square at night comes to life under the bright lights of neon signs and billboards. Pedestrians fill the sidewalks and crosswalks, navigating wet streets amid yellow taxis zipping through traffic. Key landmarks include the distinctive JVC building on 7th Avenue and Broadway, featuring its globe-shaped structure with a large Earth image, and a prominent Pepsi advertisement. The scene captures Times Square's essence, showcasing its vibrant advertising culture, chaotic yet captivating atmosphere, and unique ambiance amidst rain."
 }

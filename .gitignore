@@ -1,1 +1,24 @@
-**/.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Analysis output directories
+analysis_output/
+**/analysis_output/
+**/images/
+**/blurry/
+
+# Image and video files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Temporary files
+*.mp3
+.DS_Store
