@@ -19,6 +19,9 @@ analysis_output/
 *.mov
 *.mkv
 
+# Exception for README video
+!readme_vid.mp4
+
 # Temporary files
 analysis_results.json
 *.mp3

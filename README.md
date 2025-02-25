@@ -1,3 +1,9 @@
+# OSIRIS Video Sage 🎥 🤖
+
+https://github.com/deonblaauw/OSIRIS/assets/readme_vid.mp4
+
+A powerful video analysis tool that uses Ollama's local AI models to provide detailed descriptions of video content.
+
 # Video Analysis with Vision.py
 
 A powerful tool that analyzes videos using AI vision models to create detailed descriptions of video content. The script processes videos frame by frame, analyzes content using vision models, and generates a coherent narrative description with text-to-speech output.
