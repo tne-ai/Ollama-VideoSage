@@ -20,5 +20,6 @@ analysis_output/
 *.mkv
 
 # Temporary files
+analysis_results.json
 *.mp3
 .DS_Store
