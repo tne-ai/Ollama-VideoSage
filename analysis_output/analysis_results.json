@@ -1,0 +1,28 @@
+{
+  "video_path": "/Users/deonblaauw/Github/OSIRIS/Ollama-VideoSage/cakeday.mp4",
+  "analysis_parameters": {
+    "fps_sample_rate": 5,
+    "batch_size": 8,
+    "blur_threshold": 4
+  },
+  "frame_descriptions": [
+    {
+      "frame_number": 0,
+      "timestamp": 0.0,
+      "description": "In this frame, a person is holding a plate with food on it. The individual appears to be wearing casual clothing, including a denim jacket and plaid pants. They are standing indoors, possibly at an event or gathering where refreshments are being served.\n\nThe focus of the image is on the plate in their hands, which contains what looks like a dessert topped with whipped cream and red berries. The person seems to be presenting or about to enjoy this treat."
+    },
+    {
+      "frame_number": 120,
+      "timestamp": 5.0,
+      "description": "In this frame, a person with curly hair and wearing a dark blue sweater appears to be engaged in a phone conversation while standing at a kitchen counter. Another individual dressed in a denim jacket is holding out a plate topped with what looks like dessert topped with strawberries towards them. The setting seems casual, possibly during an evening or gathering where food is being shared.\n\nDetails such as the modern kitchen appliances and items on the countertop add to the context of a relaxed domestic environment. There's also a bottle of red wine present in the scene, suggesting that drinks might be part of this interaction."
+    }
+  ],
+  "segment_descriptions": [
+    {
+      "start_time": 0.0,
+      "end_time": 5.0,
+      "description": "The video segment begins with an individual holding a plate with a dessert, likely a cake or pie, topped with whipped cream and red berries. They are standing indoors, dressed casually in a denim jacket and plaid pants, suggesting they are at a gathering where refreshments are being served. The focus is on the food as they appear to be presenting it to others or about to enjoy it themselves. \n\nCut to another scene, likely part of the same event, with a person with curly hair and a dark blue sweater engaged in a phone conversation while standing at a kitchen counter. They hold out a plate topped with strawberries towards another individual dressed similarly in a denim jacket. The setting is a modern kitchen with appliances and items on the countertop, creating a relaxed domestic environment. A bottle of red wine is present, indicating that drinks might be part of this interaction. \n\nThis video segment suggests a casual gathering where food and conversation are shared among friends or family. The progression of action shows a shift from one person presenting dessert to another offering it, with the overall theme of food and social interaction taking center stage."
+    }
+  ],
+  "final_description": "A group of friends gather in a modern kitchen for a casual get-together, sharing desserts and engaging in light conversations. A key moment captures a host presenting strawberries on a plate to a friend who then offers dessert to someone else. The video ends with the implication that food and social interaction are central to this gathering, creating a warm and relaxed atmosphere."
+}
