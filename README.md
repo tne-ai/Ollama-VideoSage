@@ -1,6 +1,6 @@
 # OSIRIS Video Sage 🎥 🤖
 
-https://github.com/deonblaauw/OSIRIS/assets/readme_vid.mp4
+[![Watch the video]]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/deonblaauw/OSIRIS/assets/readme_vid.mp4))
 
 A powerful video analysis tool that uses Ollama's local AI models to provide detailed descriptions of video content.
 
