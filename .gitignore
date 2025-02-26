@@ -14,7 +14,7 @@ analysis_output/
 *.jpeg
 *.png
 *.gif
-*.mp4
+# *.mp4
 *.avi
 *.mov
 *.mkv
